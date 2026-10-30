@@ -1,0 +1,6 @@
+{
+  "name": "Rute Jalan Santai HGN & HUT ke-81 PGRI 2026 Pasirwangi",
+  "description": "Aplikasi Pemandu Arah dan Navigasi GPS Interaktif Kegiatan Jalan Santai Peringatan HGN dan HUT ke-81 PGRI Tahun 2026 Kecamatan Pasirwangi.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
